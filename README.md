@@ -81,5 +81,3 @@ Summarize the main results; recommend targeted tutoring, improved test preparati
 - XGBoost documentation: https://xgboost.readthedocs.io
 
 
-*Notes for Academic Integrity*
-- This report and accompanying notebook are original and provided to help you learn. Do not submit text verbatim without running the analysis yourself and adding personal interpretation. Replace placeholders (author name, institution) and include proper local data sources when available.
